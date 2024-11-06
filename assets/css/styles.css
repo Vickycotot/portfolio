@@ -152,7 +152,6 @@ img{
       display: flex; /* Centers content */
       justify-content: center; /* Centers content horizontally */
       align-items: center; /* Centers content vertically */
-      background-color: #f0f0f0;
 }
 
 .section__title{
